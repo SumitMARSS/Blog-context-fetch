@@ -1,0 +1,31 @@
+
+
+.butt{
+    margin-top: 3rem;
+}
+
+.bloogs{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bloogs-content{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+}
+
+.spinn-posts{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+h3{
+    font-weight: 800;
+    font-size: 1.78rem;
+    text-transform: uppercase;
+    text-shadow: 3px 3px 3px blue;
+}

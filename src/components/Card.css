@@ -1,0 +1,23 @@
+
+
+.card p{
+    font-size: 0.7rem;
+}
+
+.aut{
+    font-style: italic;
+    font-weight: 500;
+}
+.cat{
+    font-weight: 600;
+    text-decoration: underline;
+}
+.tages{
+    font-size: 0.64rem;
+    font-weight: 600;
+    color: blue;
+    display: flex;
+    gap: 0.6rem;
+    text-decoration: underline;
+    cursor: pointer;
+}

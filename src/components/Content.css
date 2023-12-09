@@ -1,0 +1,19 @@
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin-top: 1.23rem;
+    margin-bottom: 2.5rem;
+}
+
+.content{
+    width: 50%;
+    padding: 10px 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
