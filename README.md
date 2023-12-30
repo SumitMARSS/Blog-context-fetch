@@ -1,6 +1,7 @@
 # Blog-context-fetch
+
 This React app serves as an excellent navigation learning tool, showcasing dynamic content retrieval from an API with features like one-click title displays and tag-based blog exploration.
-<h1>
+<h2> Visit demo on:  https://blog-context-fetch-by-sumit.netlify.app/ </h2>
 <h2>Demonstration of Front-end using react app and CSS </h2>
   <h3> Some Key features include:</h3>
 <ul>
